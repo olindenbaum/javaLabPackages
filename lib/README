@@ -1,0 +1,4 @@
+This directory contains useful java libraries. It is added to the CLASSPATH
+environment variable when users run `module load java`.
+
+THERE SHOULD ONLY EVER BY A SINGLE VERSION OF A JAR IN THIS DIRECTORY.
